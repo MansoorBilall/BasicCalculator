@@ -1,6 +1,3 @@
-The formatting issue you might be referring to is the extra spaces and non-breaking spaces (` `) in the text. Here's the fixed version with improved formatting:
-
-```markdown
 # Simple Calculator in Python
 
 This Python script is a basic calculator that can perform addition, subtraction, multiplication, and division. The user inputs two numbers and selects an operation to be performed.
